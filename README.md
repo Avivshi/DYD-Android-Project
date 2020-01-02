@@ -12,10 +12,13 @@ Background: Services, Broadcast Receiver, Asynchronous Tasks and Notifications w
 
 ### Screenshots:
 
-![Home](https://user-images.githubusercontent.com/49638679/71664658-64d5ce80-2d62-11ea-995e-7b8a39305d1a.jpg)
+###### ![Home](https://user-images.githubusercontent.com/49638679/71664658-64d5ce80-2d62-11ea-995e-7b8a39305d1a.jpg)
 
 
-![Login](https://user-images.githubusercontent.com/49638679/71664659-64d5ce80-2d62-11ea-8e09-76a174e21bce.jpg)
+###### ![Login](https://user-images.githubusercontent.com/49638679/71664659-64d5ce80-2d62-11ea-8e09-76a174e21bce.jpg)
 
 
-![Register](https://user-images.githubusercontent.com/49638679/71664660-64d5ce80-2d62-11ea-8a2c-e455bbf8fc56.jpg)
+###### ![Register](https://user-images.githubusercontent.com/49638679/71664660-64d5ce80-2d62-11ea-8a2c-e455bbf8fc56.jpg)
+
+
+###### ![chat](https://user-images.githubusercontent.com/49638679/71664701-a2d2f280-2d62-11ea-8c86-27d77f0b4c74.jpg)
